@@ -1,4 +1,5 @@
 """
+TEST
 Django settings for vcl project.
 
 For more information on this file, see
